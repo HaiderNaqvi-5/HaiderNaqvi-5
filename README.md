@@ -121,6 +121,15 @@ An end-to-end platform helping students discover scholarships through:
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🦈_Pull_Shark-Merged_PRs-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_Quickdraw-Speed_Closer-28a745?style=for-the-badge" />
+</p>
+
+---
+
 ### 📜 Certifications
 
 <p>
