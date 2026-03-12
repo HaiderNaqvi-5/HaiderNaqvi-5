@@ -38,6 +38,9 @@ class HaiderNaqvi:
             "📜 IBM Data Science Professional",
             "📜 IBM Data Analytics Professional",
         ]
+    
+    def when_not_coding(self):
+        return ["🏸 Badminton", "🎬 Anime", "📖 Reading"]
 ```
 
 ---
@@ -202,6 +205,7 @@ An end-to-end platform helping students discover scholarships through:
 - ⏱️ Automated workflows that save businesses **15+ hours/week**
 - 🌾 Building a **deep learning model** to predict mango crop yields from climate data
 - 📊 Can turn any messy CSV into a stunning Power BI dashboard in under an hour
+- 🏸 When not coding: playing **badminton**, watching **anime**, or lost in a **book**
 - 🎯 Dream: Build an AI system that makes scholarships accessible to every deserving student worldwide
 
 ---
