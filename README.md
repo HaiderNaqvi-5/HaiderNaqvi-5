@@ -191,19 +191,15 @@ An end-to-end platform helping students discover scholarships through:
 
 ---
 
-### 🎧 Now Playing on Spotify
+### 🎧 Now Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/search/anmal%20ahsan%20javed">
-    <img src="https://img.shields.io/badge/Spotify-Anmal_by_Ahsan_Javed-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%B5_Now_Playing-Anmol_—_Ahsan_Javed-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" />
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Now Playing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=1DB954&center=true&vCenter=true&width=350&lines=%F0%9F%8E%B6+Anmol+%E2%80%94+Ahsan+Javed;%F0%9F%8E%A7+On+repeat+while+coding+ScholarAI;%F0%9F%8E%B5+Vibing+%26+Building" alt="Now Playing" />
 </p>
-
-> 🎵 *"Anmal"* — Ahsan Javed | On repeat while coding ScholarAI
 
 ---
 
