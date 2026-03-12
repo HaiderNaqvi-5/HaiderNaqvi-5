@@ -99,6 +99,17 @@ An end-to-end platform helping students discover scholarships through:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HaiderNaqvi-5&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaiderNaqvi-5&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaiderNaqvi-5&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/HaiderNaqvi-5"><img src="https://img.shields.io/badge/Total_Lines_of_Code-10,000+-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="https://github.com/HaiderNaqvi-5"><img src="https://img.shields.io/badge/Repos-5+-blue?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/HaiderNaqvi-5"><img src="https://img.shields.io/badge/Commits-100+-green?style=for-the-badge&logo=git&logoColor=white" /></a>
+</p>
+
 ---
 
 ### 💼 Experience Highlights
