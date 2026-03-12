@@ -78,6 +78,25 @@ class HaiderNaqvi:
 
 ---
 
+### 📊 Skill Proficiency
+
+```text
+Python          ████████████████████░░░░░   90%
+SQL / MySQL     ████████████████████░░░░░   85%
+Power BI        ████████████████░░░░░░░░░   75%
+Pandas / NumPy  ████████████████████░░░░░   85%
+XGBoost / ML    ███████████████░░░░░░░░░░   70%
+TensorFlow      ██████████████░░░░░░░░░░░   65%
+Tableau         ███████████████░░░░░░░░░░   70%
+R               ██████████████░░░░░░░░░░░   65%
+FastAPI         ███████████████░░░░░░░░░░   70%
+Docker          ████████████░░░░░░░░░░░░░   55%
+Neo4j / Cypher  ████████████░░░░░░░░░░░░░   55%
+LangChain       ██████████░░░░░░░░░░░░░░░   45%
+```
+
+---
+
 ### 🚀 Featured Project
 
 <table>
@@ -166,6 +185,24 @@ An end-to-end platform helping students discover scholarships through:
   <img src="https://img.shields.io/badge/IBM-Data_Science_Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM-Data_Analytics_Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
+
+---
+
+### 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Fun Facts
+
+- 🔢 Processed **5.5M+ rows** of real-world data in a single analysis
+- ⏱️ Automated workflows that save businesses **15+ hours/week**
+- 🌾 Building a **deep learning model** to predict mango crop yields from climate data
+- 📊 Can turn any messy CSV into a stunning Power BI dashboard in under an hour
+- 🎯 Dream: Build an AI system that makes scholarships accessible to every deserving student worldwide
 
 ---
 
