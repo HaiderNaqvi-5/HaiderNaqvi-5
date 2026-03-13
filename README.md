@@ -1,9 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,30&height=300&section=header&text=HAIDER%20NAQVI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20ML%20Researcher&descSize=20&descColor=38BDF8&descAlignY=55&stroke=38BDF8&strokeWidth=1" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,30&height=300&section=header&text=HAIDER%20NAQVI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20ML%20Researcher&descSize=20&descColor=38BDF8&descAlignY=55&stroke=38BDF8&strokeWidth=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,30&height=300&section=header&text=HAIDER%20NAQVI&fontSize=70&fontColor=000000&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20ML%20Researcher&descSize=20&descColor=0369A1&descAlignY=55&stroke=0369A1&strokeWidth=1">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,30&height=300&section=header&text=HAIDER%20NAQVI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20ML%20Researcher&descSize=20&descColor=38BDF8&descAlignY=55&stroke=38BDF8&strokeWidth=1" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Building+ScholarAI+%E2%80%94+AI+Scholarship+Platform;Python+%7C+SQL+%7C+XGBoost+%7C+TensorFlow;Explainable+AI+%7C+Knowledge+Graphs+%7C+NLP;Turning+Raw+Data+into+Actionable+Intelligence" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Building+ScholarAI+%E2%80%94+AI+Scholarship+Platform;Python+%7C+SQL+%7C+XGBoost+%7C+TensorFlow;Explainable+AI+%7C+Knowledge+Graphs+%7C+NLP;Turning+Raw+Data+into+Actionable+Intelligence">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=Building+ScholarAI+%E2%80%94+AI+Scholarship+Platform;Python+%7C+SQL+%7C+XGBoost+%7C+TensorFlow;Explainable+AI+%7C+Knowledge+Graphs+%7C+NLP;Turning+Raw+Data+into+Actionable+Intelligence">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Building+ScholarAI+%E2%80%94+AI+Scholarship+Platform;Python+%7C+SQL+%7C+XGBoost+%7C+TensorFlow;Explainable+AI+%7C+Knowledge+Graphs+%7C+NLP;Turning+Raw+Data+into+Actionable+Intelligence" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
