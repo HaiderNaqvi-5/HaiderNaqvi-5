@@ -149,8 +149,7 @@ An end-to-end platform helping students discover scholarships through:
 ### 📊 Coding Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Lines_of_Code-10,000+-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repos-5+-2496ED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total_Lines_of_Code-Dynamic-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />  <img src="https://img.shields.io/badge/Repos-5+-2496ED?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Commits-100+-28A745?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/PRs_Merged-Pull_Shark_🦈-6f42c1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Speed_Closer-Quickdraw_⚡-F9A825?style=for-the-badge" />
