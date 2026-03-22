@@ -145,22 +145,20 @@ An end-to-end platform helping students discover scholarships through:
 </p>
 
 ---
-
 ### 📊 Coding Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Lines_of_Code-10,000+-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repos-5+-2496ED?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Commits-100+-28A745?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRs_Merged-Pull_Shark_🦈-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Speed_Closer-Quickdraw_⚡-F9A825?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/m/HaiderNaqvi-5/HaiderNaqvi-5?style=for-the-badge&logo=github&logoColor=white&label=Monthly%20Commits&color=28A745" />
+  <img src="https://img.shields.io/github/issues-pr/HaiderNaqvi-5/HaiderNaqvi-5?style=for-the-badge&logo=github&logoColor=white&label=Pull%20Requests&color=2496ED" />
+  <img src="https://img.shields.io/github/issues/HaiderNaqvi-5/HaiderNaqvi-5?style=for-the-badge&logo=github&logoColor=white&label=Open%20Issues&color=6f42c1" />
+  <img src="https://img.shields.io/github/followers/HaiderNaqvi-5?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=38BDF8" />
+  <img src="https://img.shields.io/tokei/lines/github/HaiderNaqvi-5/HaiderNaqvi-5?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=Total%20Lines%20of%20Code&color=blueviolet" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
 </p>
-
 ---
 
 ### 💼 Experience Highlights
