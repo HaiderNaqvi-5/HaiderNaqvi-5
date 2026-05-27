@@ -35,20 +35,20 @@ class HaiderNaqvi:
         self.location = "Multan, Pakistan 🇵🇰"
         self.education = "BS Computer Science — NFC-IET University (CGPA: 3.3/4.0)"
         self.experience = "12+ months in data analytics & predictive modeling"
-        
+
     def current_projects(self):
         return [
             "🏗️ ScholarAI — AI-Powered Scholarship Discovery Platform",
             "🌾 Mango Crop Yield Prediction — TensorFlow & Climate Data",
         ]
-    
+
     def certifications(self):
         return [
             "📜 Google Data Analytics Professional",
             "📜 IBM Data Science Professional",
             "📜 IBM Data Analytics Professional",
         ]
-    
+
     def when_not_coding(self):
         return ["🏸 Badminton", "🎬 Anime", "📖 Reading"]
 ```
@@ -62,6 +62,7 @@ class HaiderNaqvi:
 **Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
@@ -72,6 +73,7 @@ class HaiderNaqvi:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Visualization & BI**
 
@@ -83,7 +85,10 @@ class HaiderNaqvi:
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -99,21 +104,29 @@ class HaiderNaqvi:
 
 **[ScholarAI — AI-Powered Scholarship Platform](https://github.com/HaiderNaqvi-5/scholarai-platform)**
 
-An end-to-end platform helping students discover scholarships through:
-- 🔍 **3-Stage Hybrid RecSys** — Neo4j Graph → pgvector Semantic Search → XGBoost
-- 🧩 **Explainable AI** — SHAP/LIME feature contributions
-- 🤖 **LangChain RAG** — SOP critique & interview simulation
-- 📊 **Next.js Dashboards** — Real-time match visualizations
+End-to-end platform helping students discover, match, and prepare for scholarships:
 
-`Python` `FastAPI` `PostgreSQL` `Neo4j` `XGBoost` `LangChain` `Next.js`
+- 🔍 **3-Stage Hybrid RecSys** — Neo4j Graph → pgvector Semantic Search → XGBoost re-ranker
+- 🧩 **Explainable AI** — SHAP/LIME feature contributions on every match
+- 🤖 **LangChain RAG** — SOP critique & interview simulation agents
+- 🔐 **Clerk Auth** — Email/password + social OAuth (Google, GitHub, LinkedIn, Microsoft) + magic-link + connected-accounts management
+- 📧 **Resend Transactional Email** — Templated welcome, deadline reminders, match digests, Celery daily cron emails
+- 🕸️ **Firecrawl Cloud Ingestion** — SSRF-hardened URL validation, decadal cadence scholarship scraper
+- 📊 **Next.js 14 Dashboards** — App Router, real-time match visualizations, server actions
+
+`Python` `FastAPI` `PostgreSQL` `Neo4j` `XGBoost` `LangChain` `Next.js` `TypeScript` `Clerk` `Resend` `Firecrawl` `Celery` `Docker`
 
 </td>
 <td width="30%" align="center">
 
 ⭐ **FYP Project**<br/>
-🏗️ In Development<br/>
+🏗️ Active Development<br/>
 📄 Research-Grade<br/>
-🎯 6 Core Modules
+🎯 6 Core Modules<br/>
+✅ 561 Tests Passing<br/>
+🔁 343+ Commits<br/>
+🐍 1.6 MB Python<br/>
+🟦 586 KB TypeScript
 
 </td>
 </tr>
@@ -124,7 +137,7 @@ An end-to-end platform helping students discover scholarships through:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaiderNaqvi-5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HaiderNaqvi-5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderNaqvi-5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
 </p>
 
@@ -149,16 +162,22 @@ An end-to-end platform helping students discover scholarships through:
 ### 📊 Coding Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Lines_of_Code-10,000+-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repos-5+-2496ED?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Commits-100+-28A745?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRs_Merged-Pull_Shark_🦈-6f42c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Speed_Closer-Quickdraw_⚡-F9A825?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lines_of_Code-60,000+-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Public_Repos-2-2496ED?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Commits_(yr)-310+-28A745?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions_(yr)-371+-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs_(yr)-31+-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-3-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
 </p>
 
 ---
@@ -212,6 +231,10 @@ An end-to-end platform helping students discover scholarships through:
 - 🎯 Dream: Build an AI system that makes scholarships accessible to every deserving student worldwide
 
 ---
+
+<p align="center">
+  <em>Last updated: May 2026 · stats refreshed live from GitHub</em>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=80&section=footer" width="100%" />
