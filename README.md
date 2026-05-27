@@ -137,12 +137,12 @@ End-to-end platform helping students discover, match, and prepare for scholarshi
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaiderNaqvi-5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiderNaqvi-5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaiderNaqvi-5&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaiderNaqvi-5&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HaiderNaqvi-5&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=HaiderNaqvi-5&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
@@ -172,12 +172,11 @@ End-to-end platform helping students discover, match, and prepare for scholarshi
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
 </p>
 
 ---
