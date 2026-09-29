@@ -1,240 +1,116 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0%2C2%2C12%2C20%2C30&height=300&section=header&text=HAIDER%20NAQVI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20-%20AI%20Engineer%20-%20ML%20Researcher&descSize=20&descColor=38BDF8&descAlignY=55&stroke=38BDF8&strokeWidth=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0%2C2%2C12%2C20%2C30&height=300&section=header&text=HAIDER%20NAQVI&fontSize=70&fontColor=000000&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20-%20AI%20Engineer%20-%20ML%20Researcher&descSize=20&descColor=0369A1&descAlignY=55&stroke=0369A1&strokeWidth=1">
-    <img alt="HAIDER NAQVI" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,30&height=300&section=header&text=HAIDER%20NAQVI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20-%20AI%20Engineer%20-%20ML%20Researcher&descSize=20&descColor=38BDF8&descAlignY=55&stroke=38BDF8&strokeWidth=1" width="100%" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:22d3ee&height=190&section=header&text=Haider%20Naqvi&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Python%20%2F%20AI%20Engineer%20%C2%B7%20Backend%20and%20AI%20Systems&descSize=18&descAlignY=56" alt="Haider Naqvi" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Building+ScholarAI+%E2%80%94+AI+Scholarship+Platform;Python+%7C+SQL+%7C+XGBoost+%7C+TensorFlow;Explainable+AI+%7C+Knowledge+Graphs+%7C+NLP;Turning+Raw+Data+into+Actionable+Intelligence">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=Building+ScholarAI+%E2%80%94+AI+Scholarship+Platform;Python+%7C+SQL+%7C+XGBoost+%7C+TensorFlow;Explainable+AI+%7C+Knowledge+Graphs+%7C+NLP;Turning+Raw+Data+into+Actionable+Intelligence">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Building+ScholarAI+%E2%80%94+AI+Scholarship+Platform;Python+%7C+SQL+%7C+XGBoost+%7C+TensorFlow;Explainable+AI+%7C+Knowledge+Graphs+%7C+NLP;Turning+Raw+Data+into+Actionable+Intelligence" />
-    </picture>
-  </a>
+  <a href="https://www.linkedin.com/in/syed-haider-abbas-naqvi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:haidernaqvi7989@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/HaiderNaqvi-5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/haider-naqvi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:haidernaqvi7989@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/HaiderNaqvi-5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=HaiderNaqvi-5&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  Building grounded AI features, dependable APIs, and practical software systems.
 </p>
 
 ---
 
-### 🧠 About Me
+## About
 
-```python
-class HaiderNaqvi:
-    def __init__(self):
-        self.name = "Syed Muhammad Haider Abbas Naqvi"
-        self.role = "Data Scientist & AI Engineer"
-        self.location = "Multan, Pakistan 🇵🇰"
-        self.education = "BS Computer Science — NFC-IET University (CGPA: 3.3/4.0)"
-        self.experience = "12+ months in data analytics & predictive modeling"
+I'm a Python and AI-focused software engineer in Multan, Pakistan. I build backend systems, REST APIs, retrieval-augmented generation (RAG) workflows, business applications, and LLM-powered product features.
 
-    def current_projects(self):
-        return [
-            "🏗️ ScholarAI — AI-Powered Scholarship Discovery Platform",
-            "🌾 Mango Crop Yield Prediction — TensorFlow & Climate Data",
-        ]
-
-    def certifications(self):
-        return [
-            "📜 Google Data Analytics Professional",
-            "📜 IBM Data Science Professional",
-            "📜 IBM Data Analytics Professional",
-        ]
-
-    def when_not_coding(self):
-        return ["🏸 Badminton", "🎬 Anime", "📖 Reading"]
-```
-
----
-
-### 🛠️ Tech Stack
+My work is centred on making AI useful in real systems: grounding outputs in data, designing clear service boundaries, protecting sensitive workflows, and keeping products practical to operate.
 
 <p align="center">
-
-**Languages & Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-**Data Science & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Visualization & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Infrastructure & DevOps**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Currently%20working%20with-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/pgvector-4B32C3?style=flat-square" alt="pgvector" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
-
-### 🚀 Featured Project
+## Selected work
 
 <table>
-<tr>
-<td width="70%">
-
-**[ScholarAI — AI-Powered Scholarship Platform](https://github.com/HaiderNaqvi-5/scholarai-platform)**
-
-End-to-end platform helping students discover, match, and prepare for scholarships:
-
-- 🔍 **3-Stage Hybrid RecSys** — Neo4j Graph → pgvector Semantic Search → XGBoost re-ranker
-- 🧩 **Explainable AI** — SHAP/LIME feature contributions on every match
-- 🤖 **LangChain RAG** — SOP critique & interview simulation agents
-- 🔐 **Clerk Auth** — Email/password + social OAuth (Google, GitHub, LinkedIn, Microsoft) + magic-link + connected-accounts management
-- 📧 **Resend Transactional Email** — Templated welcome, deadline reminders, match digests, Celery daily cron emails
-- 🕸️ **Firecrawl Cloud Ingestion** — SSRF-hardened URL validation, decadal cadence scholarship scraper
-- 📊 **Next.js 14 Dashboards** — App Router, real-time match visualizations, server actions
-
-`Python` `FastAPI` `PostgreSQL` `Neo4j` `XGBoost` `LangChain` `Next.js` `TypeScript` `Clerk` `Resend` `Firecrawl` `Celery` `Docker`
-
-</td>
-<td width="30%" align="center">
-
-⭐ **FYP Project**<br/>
-🏗️ Active Development<br/>
-📄 Research-Grade<br/>
-🎯 6 Core Modules<br/>
-✅ 561 Tests Passing<br/>
-🔁 343+ Commits<br/>
-🐍 1.6 MB Python<br/>
-🟦 586 KB TypeScript
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HaiderNaqvi-5/scholarai-platform">AidwiseAI (ScholarAI)</a></h3>
+      <p>Scholarship discovery and matching with PostgreSQL and pgvector. Reduced the Docker image from 1.5 GB to 250 MB, removed repeated 420 MB model initialisation, and hardened external ingestion against SSRF.</p>
+      <p><code>Python</code> <code>pgvector</code> <code>Docker</code> <code>App Security</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HaiderNaqvi-5/CampaignIQ">CampaignIQ</a></h3>
+      <p>A grounded outreach workspace combining CRM contacts, website intelligence, reviewable campaign drafts, and scheduled follow-ups.</p>
+      <p><code>FastAPI</code> <code>Next.js</code> <code>PostgreSQL/pgvector</code> <code>Redis</code> <code>Celery</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HaiderNaqvi-5/EmbedIQ">EmbedIQ</a></h3>
+      <p>An embeddable, website-specific RAG assistant that crawls sites, builds a knowledge base, and keeps answers scoped to the indexed content.</p>
+      <p><code>FastAPI</code> <code>Next.js</code> <code>pgvector</code> <code>Celery</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HaiderNaqvi-5/QScope">QSScope</a></h3>
+      <p>Local-first quality and security intelligence for reproducible codebase analysis, baselines, SBOMs, and structured reports.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>Testing</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HaiderNaqvi-5/ga-traders">GA Traders</a></h3>
+      <p>Role-based wholesale distribution software for inventory, ordering, invoices, accounts, profitability reporting, and field booking.</p>
+      <p><code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Flutter</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HaiderNaqvi-5/InternFlow">InternFlow</a></h3>
+      <p>Internship operations platform for onboarding, task delivery, reviews, attendance, reporting, and completion certificates.</p>
+      <p><code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>WebSockets</code></p>
+    </td>
+  </tr>
 </table>
 
----
+## In progress
 
-### 📈 GitHub Stats
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3><a href="https://github.com/HaiderNaqvi-5/EMC-Veritas">EMC Veritas</a></h3>
+      <p>A certificate, leadership-recognition, and public-verification portal for the Event Management Club at NFC-IET Multan. The project is actively being developed around secure issuance, verification, templates, signatures, and student records.</p>
+      <p><code>FastAPI</code> <code>React</code> <code>Supabase</code> <code>Cloudflare Pages</code> <code>Render</code></p>
+    </td>
+  </tr>
+</table>
+
+## Experience
+
+### AI Automation Intern - Cyberify
+*Aug 2026 - Sep 2026*
+
+- Built document-ingestion, semantic-retrieval, and context-grounded AI workflows with FastAPI, PostgreSQL, pgvector, and OpenAI APIs.
+- Contributed to the team-built T Rex outreach platform, owning the SMS Engine and its React/TypeScript frontend.
+
+## Engineering principles
+
+<table>
+  <tr>
+    <td>Ground AI outputs in retrieved context and make them reviewable.</td>
+    <td>Keep critical business and security rules in backend services, not only the UI.</td>
+  </tr>
+  <tr>
+    <td>Treat performance, deployment weight, and security boundaries as product work.</td>
+    <td>Prefer clear, maintainable systems over impressive-looking complexity.</td>
+  </tr>
+</table>
+
+## Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaiderNaqvi-5&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaiderNaqvi-5&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaiderNaqvi-5&theme=github_dark" alt="GitHub activity summary" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HaiderNaqvi-5&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaiderNaqvi-5&theme=github-dark&hide_border=true" alt="GitHub contribution graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaiderNaqvi-5&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="95%" />
-</p>
-
----
-
-### 🐍 Watch My Contributions Get Eaten
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HaiderNaqvi-5/HaiderNaqvi-5/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-### 📊 Coding Metrics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Lines_of_Code-60,000+-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Public_Repos-2-2496ED?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Commits_(yr)-310+-28A745?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contributions_(yr)-371+-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRs_(yr)-31+-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Followers-3-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaiderNaqvi-5&theme=tokyonight" height="160" />
-</p>
-
----
-
-### 💼 Experience Highlights
-
-| Role | Company | Impact |
-|---|---|---|
-| **Data Analyst** | Multan Swiss Hotel | Built dynamic pricing models → **15% YoY guest retention lift** |
-| **Data Analyst** | Nmsoft Technologies | Automated reporting pipelines → **saved 15 hrs/week** for 5 clients |
-
----
-
-### 📜 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google-Data_Analytics_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM-Data_Science_Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM-Data_Analytics_Professional-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
-</p>
-
----
-
-### 🎧 Now Playing
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%B5_Now_Playing-Anmol_—_Ahsan_Javed-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=1DB954&center=true&vCenter=true&width=350&lines=%F0%9F%8E%B6+Anmol+%E2%80%94+Ahsan+Javed;%F0%9F%8E%A7+On+repeat+while+coding+ScholarAI;%F0%9F%8E%B5+Vibing+%26+Building" alt="Now Playing" />
-</p>
-
----
-
-### 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-### ⚡ Fun Facts
-
-- 🔢 Processed **5.5M+ rows** of real-world data in a single analysis
-- ⏱️ Automated workflows that save businesses **15+ hours/week**
-- 🌾 Building a **deep learning model** to predict mango crop yields from climate data
-- 📊 Can turn any messy CSV into a stunning Power BI dashboard in under an hour
-- 🏸 When not coding: playing **badminton**, watching **anime**, or lost in a **book**
-- 🎯 Dream: Build an AI system that makes scholarships accessible to every deserving student worldwide
-
----
-
-<p align="center">
-  <em>Last updated: May 2026 · stats refreshed live from GitHub</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=80&section=footer" width="100%" />
-</p>
+<p align="center"><sub>Last refreshed: September 2026</sub></p>
