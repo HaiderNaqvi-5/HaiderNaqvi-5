@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0%2C2%2C12%2C20%2C30&height=300&section=header&text=HAIDER%20NAQVI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20%2F%20AI%20Engineer%20-%20Backend%20%26%20AI%20Systems&descSize=20&descColor=38BDF8&descAlignY=55&stroke=38BDF8&strokeWidth=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0%2C2%2C12%2C20%2C30&height=300&section=header&text=HAIDER%20NAQVI&fontSize=70&fontColor=000000&animation=twinkling&fontAlignY=35&desc=Python%20%2F%20AI%20Engineer%20-%20Backend%20%26%20AI%20Systems&descSize=20&descColor=0369A1&descAlignY=55&stroke=0369A1&strokeWidth=1">
-    <img alt="HAIDER NAQVI" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,30&height=300&section=header&text=HAIDER%20NAQVI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20%2F%20AI%20Engineer%20-%20Backend%20%26%20AI%20Systems&descSize=20&descColor=38BDF8&descAlignY=55&stroke=38BDF8&strokeWidth=1" width="100%" />
-  </picture>
+  <img alt="HAIDER NAQVI" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,30&height=300&section=header&text=HAIDER%20NAQVI&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20%2F%20AI%20Engineer%20-%20Backend%20and%20AI%20Systems&descSize=20&descColor=38BDF8&descAlignY=55&stroke=38BDF8&strokeWidth=1" width="100%" />
 </p>
 
 <p align="center">
